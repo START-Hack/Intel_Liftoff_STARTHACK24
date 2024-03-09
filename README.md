@@ -1,4 +1,4 @@
-# <p align="center"> START Fellowship </p>
+# <p align="center"> Intel Liftoff </p>
 
 ## <p align="center"> Case Introduction: </p>
 
