@@ -26,17 +26,16 @@ Embark on the AI SpeedRacers Quest to not only refine your skills but also to le
 
 ## <p align="center"> Deep Dive Slides: </p>
 
+<p align="center"> Insert Deep Dive slides here </p>
+
+##  <p align="center"> Resources: </p>
+
 <p align="center">
  <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/IDC_guide.pdf">Intel Developer Cloud guide</a>
 </p>
 <p align="center">
  <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/Intel_AI_tools.pdf">Learn more about Intel AI optimizations for Pandas, Scikit-learn, Pytorch, Tensorflow here</a>
 </p>
-
-
-##  <p align="center"> Resources: </p>
-- Intel Developer Cloud
-- AI Libraries
 
 
 ## <p align="center"> Judging Criteria: </p>
