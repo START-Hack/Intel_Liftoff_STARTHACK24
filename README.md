@@ -2,7 +2,19 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus, tortor in feugiat varius, sem purus aliquet quam, vel volutpat lorem nibh eu lacus. Donec massa ligula, auctor vitae erat eget, vulputate sagittis nisl. Praesent iaculis, lectus ut volutpat interdum, eros odio vestibulum eros, eget porta tellus lectus vitae massa. 
+Dive into the AI SpeedRacers Quest, your fast track to mastering ML model optimization on the Intel Developer Cloud. This challenge is your gateway to applying Intel’s advanced techniques for peak efficiency and performance in ML tasks, focusing on:
+- LLM Fine-Tuning Pipeline Optimization
+- Classical Machine Learning Enhancement
+ 
+Achievement Unlocked:
+Craft an optimized model, then spotlight it on the HuggingFace model hub, complete with a model card detailing its journey and capabilities on the Intel Developer Cloud. Your card will feature:
+ 
+- CheckboxModel Essentials: Name, description, license, and purpose.
+- How-To: Usage instructions.
+- Know-How: Limitations and optimizations.
+- Proof of Excellence: Key metrics like Accuracy and MAE.
+ 
+Embark on the AI SpeedRacers Quest to not only refine your skills but also to leave a mark on the AI community with your optimized, efficient ML model.
 
 Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
 
