@@ -19,15 +19,14 @@ Craft an optimized model on Intel Developer Cloud, then spotlight it on the Hugg
  
 Embark on the AI SpeedRacers Quest to not only refine your skills but also to leave a mark on the AI community with your optimized, efficient ML model.
 
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
-
 ## <p align="center"> The Pitch: </p>
 
 <p align="center"> Insert Pitchdeck here </p>
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> Insert Deep Dive Slides here </p>
+<p align="center"> [Intel Developer cloud guide](IDC_guide.pdf) </p>
+<p align="center"> [Learn more about Intel AI optimizations for Pandas, Scikit-learn, Pytorch, Tensorflow here](Intel_AI_tools.pdf) </p>
 
 ## <p align="center"> Further Information: </p>
 
