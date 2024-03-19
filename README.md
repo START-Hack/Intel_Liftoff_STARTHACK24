@@ -2,12 +2,15 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-Dive into the AI SpeedRacers Quest, your fast track to mastering ML model optimization on the Intel Developer Cloud. This challenge is your gateway to applying Intel’s advanced techniques for peak efficiency and performance in ML tasks, focusing on:
+Dive into the AI SpeedRacers Quest, your fast track to mastering ML model optimization on the Intel Developer Cloud. This challenge is your gateway to applying Intel’s advanced techniques for peak efficiency and performance for AI challenges, that could be focused on:
 - LLM Fine-Tuning Pipeline Optimization
-- Classical Machine Learning Enhancement
+- Optimized classical Machine Learning and Deep Learning 
+- Launching a RAG Chatbot
+- Applying an quantization to your model
+- And we're not limiting your ideas, just pitch and show us your great idea!
  
 Achievement Unlocked:
-Craft an optimized model, then spotlight it on the HuggingFace model hub, complete with a model card detailing its journey and capabilities on the Intel Developer Cloud. Your card will feature:
+Craft an optimized model on Intel Developer Cloud, then spotlight it on the HuggingFace model hub, complete with a model card detailing its journey and capabilities on the Intel Developer Cloud. Your card will feature:
  
 - Model Essentials: Name, description, license, and purpose.
 - How-To: Usage instructions.
