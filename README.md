@@ -9,7 +9,7 @@ Dive into the AI SpeedRacers Quest, your fast track to mastering ML model optimi
 Achievement Unlocked:
 Craft an optimized model, then spotlight it on the HuggingFace model hub, complete with a model card detailing its journey and capabilities on the Intel Developer Cloud. Your card will feature:
  
-- CheckboxModel Essentials: Name, description, license, and purpose.
+- Model Essentials: Name, description, license, and purpose.
 - How-To: Usage instructions.
 - Know-How: Limitations and optimizations.
 - Proof of Excellence: Key metrics like Accuracy and MAE.
