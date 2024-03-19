@@ -25,15 +25,20 @@ Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus se
 
 ## <p align="center"> Judging Criteria: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
+- Development on Intel Developer Cloud (25%)
+- Open Source (25%)
+- Problem Solving (25%)
+- Optimization with Intel AI (25%)
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Vladimir Kilyazov will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-### Prize Name
+### #1 Gold Ticket Intel Liftoff: Includes personalized tech mentoring and credits for the Intel Developer Cloud.
+### #2 Runner-Up Reward: An opportunity for an interview and a feature publication with Intel Corporation.
+### #3 Branded Intel Corporation merchandise, symbolizing your achievement and participation.
 
 
