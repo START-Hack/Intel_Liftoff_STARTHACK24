@@ -1,4 +1,4 @@
-# <p align="center"> Intel Liftoff (Side Quest) </p>
+# <p align="center"> AI SpeedRacers with Intel Liftoff for Startups (Side Quest) </p>
 
 ## <p align="center"> Case Introduction: </p>
 
@@ -35,3 +35,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. D
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
 ### Prize Name
+
+
