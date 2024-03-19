@@ -25,12 +25,13 @@ Embark on the AI SpeedRacers Quest to not only refine your skills but also to le
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> [Intel Developer cloud guide](IDC_guide.pdf) </p>
-<p align="center"> [Learn more about Intel AI optimizations for Pandas, Scikit-learn, Pytorch, Tensorflow here](Intel_AI_tools.pdf) </p>
+<p align="center">
+ <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/IDC_guide.pdf">Intel Developer Cloud guide</a>
+</p>
+<p align="center">
+ <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/Intel_AI_tools.pdf">Learn more about Intel AI optimizations for Pandas, Scikit-learn, Pytorch, Tensorflow here</a>
+</p>
 
-## <p align="center"> Further Information: </p>
-
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
 
 ##  <p align="center"> Resources: </p>
 - Intel Developer Cloud
