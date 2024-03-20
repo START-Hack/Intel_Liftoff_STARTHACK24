@@ -22,12 +22,10 @@ Embark on the AI SpeedRacers Quest to not only refine your skills but also to le
 
 ##  <p align="center"> Resources: </p>
 
-<p align="center">
- <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/IDC_guide.pdf">Intel Developer Cloud guide</a>
-</p>
-<p align="center">
- <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/Intel_AI_tools.pdf">Learn more about Intel AI optimizations for Pandas, Scikit-learn, Pytorch, Tensorflow here</a>
-</p>
+- <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/IDC_guide.pdf">Intel Developer Cloud guide</a>
+- <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/Intel_AI_tools.pdf">Learn more about Intel AI optimizations for Pandas, Scikit-learn, Pytorch, Tensorflow here</a>
+- <a href="https://hackmd.io/@kAdFkzESSY2yWQ8EO82Uyw/r1vAtD9cT">Learn here about PredictionGuard API if you want to work with LLM/RAG API along with important safeguard (like factual consistency checking, toxicity filters, PII filters, prompt injection detection, etc.)</a>
+
 
 
 ## <p align="center"> Judging Criteria: </p>
