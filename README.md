@@ -20,14 +20,6 @@ Your HuggingFace- model card will feature:
  
 Embark on the AI SpeedRacers Quest to not only refine your skills but also to leave a mark on the AI community with your optimized, efficient ML model.
 
-## <p align="center"> The Pitch: </p>
-
-<p align="center"> Insert Pitchdeck here </p>
-
-## <p align="center"> Deep Dive Slides: </p>
-
-<p align="center"> Insert Deep Dive slides here </p>
-
 ##  <p align="center"> Resources: </p>
 
 <p align="center">
