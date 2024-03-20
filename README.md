@@ -1,5 +1,11 @@
 # <p align="center"> AI SpeedRacers with Intel Liftoff for Startups (Side Quest) </p>
 
+<p align="center">
+  <img src="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/7b74789b8b3b5e060fda55468cddf76f22dbd332/liftoff_logo.png" width="200" title="Liftoff">
+  <img src="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/fe601c88323a9195b80c382d81f26efc78d0e495/predictionguard_light.png" width="200" alt="PredictionGuard">
+</p>
+
+
 ## <p align="center"> Case Introduction: </p>
 
 Dive into the AI SpeedRacers Quest, your fast track to mastering ML model optimization on the Intel Developer Cloud. This challenge is your gateway to applying Intel’s advanced techniques for peak efficiency and performance for AI challenges, that could be focused on:
