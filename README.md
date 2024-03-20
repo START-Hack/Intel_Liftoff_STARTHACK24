@@ -18,7 +18,7 @@ Dive into the AI SpeedRacers Quest, your fast track to mastering ML model optimi
 Achievement Unlocked:
 Craft an optimized model on Intel Developer Cloud, then spotlight it on the HuggingFace model hub, complete with a model card detailing its journey and capabilities on the Intel Developer Cloud. 
 
-Your HuggingFace- model card will feature:
+Your HuggingFace model card will feature:
 - Model Essentials: Name, description, license, and purpose.
 - How-To: Usage instructions.
 - Know-How: Limitations and optimizations.
@@ -29,6 +29,7 @@ Embark on the AI SpeedRacers Quest to not only refine your skills but also to le
 ##  <p align="center"> Resources: </p>
 
 - <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/IDC_guide.pdf">Intel Developer Cloud guide</a>
+- <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/pg_cheat_sheet-2.pdf">PredictionGuard LLM/RAG Guide</a>
 - <a href="https://github.com/START-Hack/Intel_Liftoff_STARTHACK24/blob/main/Intel_AI_tools.pdf">Learn more about Intel AI optimizations for Pandas, Scikit-learn, Pytorch, Tensorflow here</a>
 - <a href="https://hackmd.io/@kAdFkzESSY2yWQ8EO82Uyw/r1vAtD9cT">Learn here about PredictionGuard API if you want to work with LLM/RAG API along with important safeguard (like factual consistency checking, toxicity filters, PII filters, prompt injection detection, etc.)</a>
 
